@@ -3,13 +3,7 @@
 
 Displays events from your Ring Doorbell in the Mac OS X menubar. Allows you to view the videos from the last events.
 
-![Imgur](https://i.imgur.com/VLcNHNa.png)
-
-Supports OS X Dark Mode 
-
-## Changelog: 
-
-**Update 2018.01.20:** Initial import - supports video viewing for the last events
+![Imgur](https://i.imgur.com/CONQzKV.jpg)
 
 ## Credits: 
 
